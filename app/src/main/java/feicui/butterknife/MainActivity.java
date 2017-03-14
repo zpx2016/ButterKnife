@@ -35,5 +35,6 @@ public class MainActivity extends AppCompatActivity {
     @OnClick(R.id.text_text)
     public void onClick() {
         textText.setText("hhhhhhhhhhhhhhhhhhhhhhhhh");
+        String name="真的";
     }
 }
